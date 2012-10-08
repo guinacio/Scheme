@@ -9,7 +9,7 @@
 ;;;
 ;;;   DAS5102
 ;;;
-;;;   Programador(es): Max Hering de Queiroz
+;;;   Programador(es):
 ;;;
 ;;;
 ;;;   Tel.: 0xx48 3721 7791

@@ -10,7 +10,7 @@
 ;;;
 ;;;   DAS5102 Fundamentos da Estrutura da Informação
 ;;;
-;;;   Programador: Max Hering de Queiroz
+;;;   Programador:
 ;;;
 ;;;   Tel.: 0xx48 3721 7791
 ;;;   E-mail: max@das.ufsc.br
